@@ -78,12 +78,4 @@ The application uses `Jest` and `supertest` for testing. To run the tests, execu
 
 ```bash
 npm run test
-<<<<<<< HEAD
 ```
-=======
-```
-
-
-
-
->>>>>>> b5074a7295588ac12ae6bdf9d80ca9613e2f39b5
